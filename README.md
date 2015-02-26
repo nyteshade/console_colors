@@ -8,7 +8,7 @@ What it does is safely package references to the original console['*'] functions
 
 ### Version
 
-1.0.2 - This is essentially the first commit and provides basic functionality with very little documentation or extensibility.
+1.0.1 - This is essentially the first commit and provides basic functionality with very little documentation or extensibility.
 
 ### Potential Plans
 If there was a desire for it, I could add more features. If you think something should be here that isn't, send me a pull request or suggest the feature to me directly.
